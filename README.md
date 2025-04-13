@@ -1,4 +1,4 @@
-# IB-Method
+# Extracting Meaningful Information: from Rate Distortion Theory to the Information Bottleneck Method
 
 This repository contains a research project I made for the course "TOPICS IN COMPUTATIONAL MODELLING: FROM INFORMATION THEORY TO EVOLUTIONARY MODELS" as well as the slides I used to present it in class. The main references are the following papers:
 - Naftali Tishby, Fernando C. Pereira, and William Bialek. The information bottleneck method. 2000. doi: 10.48550/ARXIV.PHYSICS/0004057. url: https://arxiv.org/abs/physics/0004057.
